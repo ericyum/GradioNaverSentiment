@@ -483,7 +483,7 @@ npm run dev
 ## 📁 프로젝트 구조
 
 ```
-GradioNaverSentiment/
+FestInsight/
 │
 ├── 📄 api_server.py                  # 🚀 FastAPI 백엔드 서버 (API 엔드포인트)
 ├── 📄 requirements.txt               # 🐍 Python 의존성

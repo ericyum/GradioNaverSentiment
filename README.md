@@ -692,17 +692,12 @@ npm run dev
 
 ---
 
-## 📞 문의 및 지원
-
-### 버그 리포트 및 기능 제안
-
-GitHub Issues를 통해 문의해주세요:
-👉 [Issue 등록하기](https://github.com/yourusername/GradioNaverSentiment/issues)
-
-### 이메일 문의
-
-📧 ericyum9196@gmail.com
-
+## 📞 문의 및 지원  
+  
+### 버그 리포트 및 기능 제안  
+  
+📧 ericyum9196@gmail.com  
+  
 ---
 
 <div align="center">
@@ -711,6 +706,6 @@ GitHub Issues를 통해 문의해주세요:
 
 ⭐ 이 프로젝트가 도움이 되셨다면 Star를 눌러주세요!
 
-[⬆️ 맨 위로 돌아가기](#-festinsight---ai-기반-축제-감성-분석-플랫폼)
+[⬆️ 맨 위로 돌아가기](https://github.com/ericyum/FestInsight)
 
 </div>
